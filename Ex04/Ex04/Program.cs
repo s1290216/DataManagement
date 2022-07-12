@@ -10,6 +10,9 @@ namespace Ex04
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Who are you?");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello, {0}!", name);
             Console.WriteLine("Tossing a coin...");
             Random r = new System.Random();
             int head = 0;
