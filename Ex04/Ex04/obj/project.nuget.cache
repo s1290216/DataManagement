@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "50nexaH2TJ/5XuFG7ukEST1ba/a1VqMo36TdOUgyxRlLeyrOgeHWNIO6GRwBQio4MQZPOmAV0wRe4caQa/4/+w==",
+  "success": true,
+  "projectFilePath": "C:\\programing_C_language\\DataManagement\\Ex4\\Ex04\\Ex04\\Ex04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akiko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\bin\Debug\netcoreapp3.1\Ex04.exe
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\bin\Debug\netcoreapp3.1\Ex04.deps.json
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\bin\Debug\netcoreapp3.1\Ex04.runtimeconfig.json
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\bin\Debug\netcoreapp3.1\Ex04.runtimeconfig.dev.json
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\bin\Debug\netcoreapp3.1\Ex04.dll
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\bin\Debug\netcoreapp3.1\Ex04.pdb
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.csproj.AssemblyReference.cache
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.AssemblyInfoInputs.cache
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.AssemblyInfo.cs
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.csproj.CoreCompileInputs.cache
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.dll
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.pdb
+C:\programing_C_language\DataManagement\Ex4\Ex04\Ex04\obj\Debug\netcoreapp3.1\Ex04.genruntimeconfig.cache
