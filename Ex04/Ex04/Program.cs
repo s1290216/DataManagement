@@ -28,6 +28,14 @@ namespace Ex04
                 }
             }
             Console.WriteLine("Heads: {0}, Tails: {1}", head, tail);
+            if(head > tail)
+            {
+                Console.WriteLine("You won!");
+            }
+            else
+            {
+                Console.WriteLine("You lost!");
+            }
         }
     }
 }
