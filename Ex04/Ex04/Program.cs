@@ -10,6 +10,9 @@ namespace Ex04
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Who are you?");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello, {0}!", name);
             Console.WriteLine("Tossing a coin...");
             Random r = new System.Random();
             int head = 0;
@@ -30,11 +33,11 @@ namespace Ex04
             Console.WriteLine("Heads: {0}, Tails: {1}", head, tail);
             if(head > tail)
             {
-                Console.WriteLine("You won!");
+                Console.WriteLine("{0} won!", name);
             }
             else
             {
-                Console.WriteLine("You lost!");
+                Console.WriteLine("{0} lost!", name);
             }
         }
     }
